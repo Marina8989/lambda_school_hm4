@@ -1,0 +1,57 @@
+.color {
+	background-image: url("https://images2.alphacoders.com/565/565696.jpg");
+}
+.navbar a{
+	color: white;
+}
+.text {
+	height: 320px;
+	text-align: center;
+	margin-top: 70px;
+	color: white;
+}
+.bold{
+	font-weight: bold;
+	font-size: 35px;
+}
+.bld{
+	font-weight: bold;
+}
+.par{
+	font-size: 14px;
+	text-align: center;
+	margin: 40px 0 40px 0;
+
+}
+h2{
+   text-align: center;
+}
+.diferent{
+	font-size: 13px;
+	color: grey;
+}
+.dif{
+	font-size: 10px;
+	color: grey;
+}
+span{
+	text-decoration: underline;
+}
+.foot{
+	color: grey;
+	font-size: 10px;
+	text-align: center;
+	height: 75px;
+}
+.icons {
+	text-align: center;
+	color: grey;
+	margin-top: 50px;
+}
+i {
+	padding: 7px;
+}
+
+
+
+
